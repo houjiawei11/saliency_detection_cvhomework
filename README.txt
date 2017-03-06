@@ -1,8 +1,8 @@
-Part1:
+Part1:Spectral Residual Approach Implementation
 run the program: hw2_1.m in 'part1_code'
 results saved in 'hw2part1'
 
-Part2:
+Part2:Context-Aware Saliency Detection Implementation
 run the program: su_backup_kmin.m  in 'part2_code'
 results saved in 'hw2part2'
 
